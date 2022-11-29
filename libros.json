@@ -1,0 +1,22 @@
+[
+    {
+        "nombrelibro":"El hacedor",  
+        "precio":500,
+        "editorial":"Emecé",
+        "datos de archivo":[
+      {
+        "código":123456,
+        "sección":"nacionales",
+        "edición":1960,
+        "formato":"papel"
+      }
+        ]
+      },
+      {
+        "nombrelibro":"Notas al pie",  
+        "precio":800,
+        "editorial":"Planeta",
+        "datos de archivo":[]
+      }
+    ]
+    
